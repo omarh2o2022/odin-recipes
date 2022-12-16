@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ham</title>
+</head>
+
+<body>
+    <div>
+    <h1>Tangy Honey Glazed Ham</h1>
+    <p>Honey-glazed ham is perfect for holiday dinners or other special occasions. An easy, homemade glaze is brushed onto the ham during the last half hour of baking, adding incredible flavor and creating a sweet, sticky, caramelized coating your guests will love. I came up with the glaze for this ham using ingredients on hand and it's the best I've ever tasted.</p>
+    <img src="ham.jpg" alt="">
+</div>
+<div>
+<h1>How to Make Honey-Glazed Ham</h1>
+<p>This honey-glazed ham recipe makes it easy to create a showstopping entree without the fuss. You'll find the full recipe below with step-by-step instructions, but here's what you can expect when you make this top-rated recipe:
+
+    Start by placing an uncovered ham in a roasting pan. Cook the ham at 325 degrees F for two hours. Remove ham from the oven for glazing.</p>
+</div>
+<div>
+    <h1>Ingredients</h1>
+    <ul>
+        <li>1 (10 pound) fully-cooked, bone-in ham</li>
+        <li>1 ¼ cups packed dark brown sugar</li>
+        <li>⅓ cup pineapple juice</li>
+        <li>⅓ cup honey, or more to taste</li>
+        <li>⅓ large orange</li>
+        <li>2 tablespoons Dijon mustard</li>
+        <li>¼ teaspoon ground cloves</li>
+        <li>1 ½ teaspoons lemon juice, or to taste (Optional)</li>       
+
+    </ul>
+</div>
+<div>
+    <h1>Directions</h1>
+    <ul>
+        <li><h3>Step 1</h3>Preheat the oven to 325 degrees F (165 degrees C). Place ham in a roasting pan. </li>
+        <li><h3>Step 2</h3>Bake ham, uncovered, in the preheated oven for 2 hours </li>
+        <li><h3>Step 3</h3>While the ham is baking, combine brown sugar, pineapple juice, and 1/3 cup honey in a saucepan. Zest orange into the saucepan, then squeeze in the juice. Add Dijon mustard and ground cloves; whisk mixture over medium-high heat as it comes to a boil. Reduce heat and simmer until glaze thickens slightly, 5 to 10 minutes. </li>
+        <li><h3>Step 4</h3>Taste glaze and adjust seasonings. Add lemon juice for more tang, or honey to make it sweeter. Set aside. </li>
+        <li><h3>Step 5</h3> Remove ham from the oven after it has baked for 2 hours. Brush with glaze. Bake for an additional 30 to 45 minutes, brushing ham with glaze every 10 minutes.</li>
+               
+
+    </ul>
+</div>
+<div><h1>Tips</h1>
+    <p>Add leftover glaze to the pan drippings along with a little flour or cornstarch to make a nice sauce to accompany the meat. Use the ham bone and any trimmings to make soup afterward.</p>
+</div>
+
+</body>
+</html>
