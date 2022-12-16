@@ -9,6 +9,12 @@
 </head>
 <body>
     <h1>Odin Recipes</h1>
-    <a href="lasagna">Lasagne Alla Bolognese Saporite</a>
+    <ul>
+        <li><a href="lasagna">Lasagne Alla Bolognese Saporite</a></li>
+        <li><a href="eggnog">Tangy Honey Glazed Ham</a></li>
+        <li><a href="eggnog">Eggnog Gingerbread Trifle</a></li>
+    </ul>
+    
+    
 </body>
 </html>
