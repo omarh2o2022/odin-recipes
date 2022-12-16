@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eggnog</title>
+</head>
+<body>
+    <h1>Eggnog Gingerbread Trifle</h1>
+    <p>Combining two of the holiday season's best flavors, this dessert is easy to make and a crowd pleaser! If you are feeling fancy, you can pipe your top layer of whipped cream on the trifle. Since I normally travel with this dessert and put a lid on it, I just spread a nice thick layer on top and then sprinkle with some chopped dried cranberries and crumbled gingerbread cookies.</p>
+    <img src="eggnog.jpg" alt="">
+    <div>
+        <h1>Ingredients</h1>
+        <ul>
+            <li>1 (14.5 ounce) package gingerbread cake mix</li>
+            <li>3 cups eggnog</li>
+            <li>1 (5.1 ounce) package instant vanilla pudding mix</li>
+            <li>2 cups heavy cream</li>
+            <li>¼ cup white sugar</li>
+            <li>2 teaspoons vanilla extract</li>
+            <li>¼ cup sweetened dried cranberries, chopped (Optional)</li>
+            <li>2 tablespoons gingersnap cookie crumbs (Optional)</li>
+        </ul>
+    </div>
+    <div>
+        <h1>Directions</h1>
+        <ul><h3>Step 1</h3>Prepare gingerbread cake mix and bake according to package directions (any size pan). Cool completely.</ul>
+        <ul><h3>Step 2</h3>Place the pudding mix in a large bowl. Pour in the eggnog and whisk for about 2 minutes. Refrigerate pudding until the gingerbread cake is cool and you are ready to assemble the trifle.</ul>
+        <ul><h3>Step 3</h3>In a large bowl, whip cream until stiff peaks are just about to form. Beat in sugar and vanilla until peaks form.</ul>
+        <ul><h3>Step 4</h3>Crumble 1/2 of the gingerbread into the bottom of a trifle bowl or a large glass bowl. Spread 1/2 of the eggnog pudding over the gingerbread, then spread 1/2 of the whipped cream on top of the pudding. Repeat the layers with the remaining gingerbread, pudding, and whipped cream. Refrigerate 6 hours or overnight. Sprinkle the top with the cranberries and cookie crumbs before serving.</ul>
+       
+
+    </div>
+    <div>
+        <h1>Cook's Notes:</h1>
+        <p>You can use already made whipped cream, but I prefer to flavor my whipped cream myself. You can substitute bourbon for the vanilla extract in the whipped cream if you like.
+
+          <span>If you use low-fat eggnog for the pudding, your pudding will be loose.</span>  </p>
+    </div>
+</body>
+</html>
